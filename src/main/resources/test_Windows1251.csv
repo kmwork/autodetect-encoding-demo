@@ -1,0 +1,3 @@
+videoserver;name;videoURL;username;password;archive length;outbox FLV;outbox RTSP;isAudio;isUdp;ptz;ptz ip;port;vendor;model;ptz username;ptz password
+ITX1.0.0 - renamed;111 Камера импорт;rtsp://192.168.100.190:554/AlphaTest.flv;;;120;http://185.98.82.36:2039/02ca67ed-e790-4654-abf5-cda656b2fbd6/live;rstp://185.98.82.36:2033/02ca67ed-e790-4654-abf5-cda656b2fbd6/live;true;false;false;;;;;;
+ITX1.0.0 - renamed;112 Камера импорт;rtsp://192.168.104.27:2033/rtsp___192.168.100.190_554_morning_MKAD.mp4/live;;;120;http://185.98.82.36:2039/8ff04693-a33f-4ceb-be02-c1bc082be795/live;rstp://185.98.82.36:2033/8ff04693-a33f-4ceb-be02-c1bc082be795/live;true;false;false;;;;;;
